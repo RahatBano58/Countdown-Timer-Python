@@ -46,7 +46,7 @@ if not st.session_state.running:
 button_style = """
     <style>
     .stApp {
-        background: linear-gradient(135deg, #51db99, #a734e0);
+        background: linear-gradient(135deg, #42a1f5, #a2c761);
     }
         div.stButton > button {
             background-color: #241fa6;
